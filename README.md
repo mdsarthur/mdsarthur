@@ -3,7 +3,7 @@
 ## About me
 I'm a Java Developer ☕ with a bachelor's degree in Information Systems 🎓 looking for my next challenge 💪 
 
-- 💼 Work experience with Java, Oracle Database, Docker and more (Check [linkedin](https://www.linkedin.com/in/souzarthur/) for more info) 
+- 💼 Work experience with Java, Oracle Database, Docker and more (Check my [linkedin](https://www.linkedin.com/in/souzarthur/) for more info) 
 - 🌱 Increasing my knowledge of Spring Framework and REST APIs
 - 🏎️ Huge fan of Gran Turismo and Forza Series
 
